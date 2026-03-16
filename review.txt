@@ -1,7 +1,1 @@
-- Most likely AI Generated
-- Why no Unit Test on the key piece here at BookingRepository.java ?
-- Ask for commitment of the code quality shown here, can it be kept on consistent without dumping the whole repo and ask AI write? because of legacy and and infra concerns
-- Probation period will show
 
-
-- Overal good code, but too AI = 7/10
